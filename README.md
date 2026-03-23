@@ -4,8 +4,6 @@ A Joomla system plugin for integrating **Nova Poshta** delivery into VirtueMart 
 
 ---
 
-## 🇬🇧 English
-
 ### 📦 Features
 - City autocomplete (API `getCities`)
 - Warehouse selection (API `getWarehouses`)
