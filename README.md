@@ -1,6 +1,6 @@
 # Joomla Nova Poshta Plugin
 
-A Joomla system plugin for integrating **Nova Poshta** delivery into VirtueMart 3.6.2 (Joomla CMS).
+A Joomla system plugin for integrating **Nova Poshta** delivery into VirtueMart 3.6.2+ (Joomla CMS).
 
 ---
 
